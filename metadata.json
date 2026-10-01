@@ -1,0 +1,8 @@
+{
+  "name": "Remix ケンタ政策ゲーム「声を聞いて、政策を届けろ！」",
+  "description": "落ちてくる「地域の声」や「政策カード」をキャッチして理想のまちをつくるドット絵風政策アクションゲーム。集めた政策をもとにGeminiが「未来のまちレポート」を生成！",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
